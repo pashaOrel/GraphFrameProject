@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Oct 20 12:24:16 MSK 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0175-4552-d14b-000011eab3c0 
+on database directory C:\Users\porlov\IdeaProjects\GraphFrameProject\metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@18c880ea 
+Loaded from file:/C:/Users/porlov/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=1.8.0_265-b01
+user.dir=C:\Users\porlov\IdeaProjects\GraphFrameProject
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
